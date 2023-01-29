@@ -13,4 +13,4 @@ Theory/Hypothesis Development, utilizing as "True" of Knowledge/Information as p
 ETC. 
 
 Given specific, selective wording, could ChatGPT use its ability of story telling, 
-write hypothesis/theories using targeted information and draw abstract, but logical conclusions.
+to write hypothesis/theories using targeted information and draw abstract, but logical conclusions.
